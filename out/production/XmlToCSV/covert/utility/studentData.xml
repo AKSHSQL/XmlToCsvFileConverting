@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<students>
+    <student>
+        <firstname>Rama</firstname>
+        <middlename>Krishna</middlename>
+        <lastname>Ponnam</lastname>
+        <age>33</age>
+    </student>
+
+    <student>
+        <firstname>Sowmya</firstname>
+        <middlename>Krishna</middlename>
+        <lastname>Ponnam</lastname>
+        <age>25</age>
+    </student>
+</students>
